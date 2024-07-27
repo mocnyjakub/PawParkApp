@@ -1,4 +1,4 @@
-import { Text, View } from '@/src/components/Themed';
+import { Text, View } from "@/src/components/Themed";
 
 export default function TabOneScreen() {
   // I want to fetch data from google maps api and display it here, use useQuery hook from react-query
